@@ -1,0 +1,151 @@
+member_id,name,age,weight_kg,height_cm,workout_days_per_week,avg_workout_minutes,goal,experience_level
+100,Noura,24,64.0,170.0,2,94.0,Muscle Gain,Advanced
+101,Lama,28,85.0,152.0,6,,Fitness,Beginner
+102,Huda,29,51.0,170.0,1,41.0,Fitness,Advanced
+103,Reem,29,,177.0,4,81.0,Muscle Gain,Advanced
+104,Lama,32,93.0,152.0,5,40.0,Fat Loss,Intermediate
+105,Reem,26,,163.0,2,72.0,Muscle Gain,Advanced
+106,Aya,19,96.0,157.0,3,55.0,Fat Loss,Intermediate
+107,Amal,25,55.0,153.0,6,,Fat Loss,Advanced
+108,Saad,29,85.0,164.0,6,81.0,Fitness,Beginner
+109,Amal,25,94.0,173.0,2,79.0,Fat Loss,Advanced
+110,Sara,30,64.0,174.0,1,27.0,Fitness,Advanced
+111,Tariq,28,57.0,182.0,3,,Muscle Gain,Intermediate
+112,Rana,24,77.0,157.0,4,67.0,Fitness,Beginner
+113,Huda,22,89.0,184.0,1,66.0,Muscle Gain,Advanced
+114,Sara,31,54.0,163.0,3,34.0,Fat Loss,Beginner
+115,Yousef,27,81.0,181.0,4,42.0,Fitness,Intermediate
+116,Tariq,24,92.0,162.0,3,47.0,Fitness,Intermediate
+117,Huda,19,55.0,169.0,6,81.0,Muscle Gain,Intermediate
+118,Amal,18,76.0,162.0,1,89.0,Muscle Gain,Intermediate
+119,Amal,25,86.0,173.0,3,71.0,Fat Loss,Beginner
+120,Maha,34,,161.0,6,22.0,Fitness,Advanced
+121,Faisal,34,66.0,151.0,2,20.0,Fat Loss,Advanced
+122,Reem,19,75.0,181.0,4,,Fitness,Beginner
+123,Maha,34,73.0,183.0,6,35.0,Fitness,Beginner
+124,Amal,18,55.0,152.0,4,55.0,Fitness,Intermediate
+125,Saad,20,69.0,182.0,2,30.0,Fat Loss,Advanced
+126,Ali,27,65.0,151.0,1,,Muscle Gain,Intermediate
+127,Tariq,29,81.0,158.0,1,67.0,Muscle Gain,Beginner
+128,Maha,33,73.0,182.0,4,,Fitness,Intermediate
+129,Aya,25,89.0,184.0,6,44.0,Fitness,Intermediate
+130,Zaid,31,84.0,185.0,1,,Fat Loss,Beginner
+131,Lama,31,69.0,157.0,3,52.0,Fat Loss,Intermediate
+132,Yousef,33,,171.0,6,70.0,Fitness,Advanced
+133,Rana,25,83.0,182.0,4,88.0,Fitness,Beginner
+134,Aya,33,84.0,166.0,4,65.0,Fat Loss,Intermediate
+135,Huda,23,90.0,178.0,1,79.0,Muscle Gain,Advanced
+136,Faisal,18,,181.0,1,37.0,Fitness,Beginner
+137,Tariq,27,52.0,173.0,2,42.0,Muscle Gain,Beginner
+138,Huda,19,91.0,166.0,1,67.0,Fat Loss,Advanced
+139,Zaid,24,75.0,174.0,5,,Muscle Gain,Intermediate
+140,Salem,24,94.0,157.0,6,95.0,Muscle Gain,Advanced
+141,Maha,32,51.0,171.0,3,82.0,Fat Loss,Intermediate
+142,Aya,34,,186.0,1,79.0,Fitness,Beginner
+143,Zaid,29,88.0,,5,66.0,Muscle Gain,Beginner
+144,Rana,20,65.0,179.0,3,82.0,Fat Loss,Intermediate
+145,Yousef,22,72.0,161.0,5,,Fat Loss,Intermediate
+146,Lina,18,81.0,174.0,5,35.0,Fat Loss,Intermediate
+147,Amal,24,54.0,152.0,4,70.0,Muscle Gain,Intermediate
+148,Zaid,22,78.0,154.0,1,81.0,Fitness,Advanced
+149,Omar,22,75.0,170.0,4,42.0,Muscle Gain,Advanced
+150,Noura,27,85.0,,2,77.0,Muscle Gain,Advanced
+151,Lina,18,94.0,173.0,2,,Fat Loss,Intermediate
+152,Aya,29,82.0,186.0,4,52.0,Muscle Gain,Beginner
+153,Zaid,25,93.0,161.0,6,,Fitness,Intermediate
+154,Yousef,20,75.0,175.0,2,,Fat Loss,Advanced
+155,Salem,19,56.0,160.0,5,,Fitness,Beginner
+156,Ali,21,58.0,184.0,1,55.0,Fat Loss,Advanced
+157,Lina,34,73.0,181.0,5,74.0,Fat Loss,Beginner
+158,Huda,30,84.0,166.0,1,32.0,Muscle Gain,Beginner
+159,Ali,34,,168.0,4,47.0,Fat Loss,Beginner
+160,Hassan,31,68.0,165.0,5,,Fitness,Beginner
+161,Omar,29,70.0,172.0,1,72.0,Fat Loss,Beginner
+162,Amal,27,63.0,154.0,3,94.0,Fitness,Intermediate
+163,Maha,32,59.0,166.0,5,65.0,Fat Loss,Advanced
+164,Aya,30,58.0,151.0,5,57.0,Fat Loss,Advanced
+165,Aya,25,50.0,166.0,1,55.0,Fat Loss,Intermediate
+166,Sara,23,68.0,188.0,3,38.0,Fitness,Beginner
+167,Yousef,24,94.0,,4,39.0,Muscle Gain,Advanced
+168,Saad,25,90.0,152.0,5,82.0,Fat Loss,Beginner
+169,Salem,34,,155.0,2,,Muscle Gain,Advanced
+170,Rana,30,,170.0,3,55.0,Muscle Gain,Intermediate
+171,Ali,20,67.0,163.0,1,22.0,Fat Loss,Beginner
+172,Hassan,33,60.0,181.0,6,47.0,Fat Loss,Advanced
+173,Lina,25,85.0,177.0,4,83.0,Fat Loss,Beginner
+174,Omar,34,69.0,178.0,5,25.0,Fitness,Advanced
+175,Amal,22,51.0,,6,24.0,Muscle Gain,Advanced
+176,Lama,18,67.0,160.0,5,78.0,Muscle Gain,Advanced
+177,Hassan,34,83.0,,1,,Fat Loss,Intermediate
+178,Hassan,23,54.0,187.0,3,72.0,Muscle Gain,Intermediate
+179,Yousef,22,68.0,163.0,1,70.0,Fat Loss,Beginner
+180,Yousef,30,50.0,181.0,2,91.0,Muscle Gain,Intermediate
+181,Ali,24,83.0,152.0,3,84.0,Muscle Gain,Advanced
+182,Hassan,29,79.0,166.0,5,85.0,Muscle Gain,Beginner
+183,Reem,28,87.0,183.0,6,49.0,Muscle Gain,Intermediate
+184,Zaid,32,83.0,187.0,1,49.0,Fitness,Intermediate
+185,Hassan,27,54.0,159.0,1,88.0,Muscle Gain,Beginner
+186,Zaid,19,51.0,160.0,3,42.0,Fitness,Beginner
+187,Sara,33,65.0,189.0,4,86.0,Fitness,Beginner
+188,Hassan,20,81.0,168.0,5,61.0,Fitness,Intermediate
+189,Salem,23,90.0,183.0,1,64.0,Fat Loss,Beginner
+190,Lina,26,,171.0,6,67.0,Fitness,Intermediate
+191,Yousef,34,50.0,,3,98.0,Fat Loss,Beginner
+192,Huda,32,71.0,177.0,6,45.0,Muscle Gain,Intermediate
+193,Noura,31,56.0,172.0,6,37.0,Fitness,Advanced
+194,Huda,23,64.0,186.0,4,,Fat Loss,Advanced
+195,Amal,34,75.0,174.0,1,44.0,Fitness,Beginner
+196,Reem,21,90.0,185.0,6,27.0,Muscle Gain,Advanced
+197,Amal,25,68.0,186.0,6,83.0,Muscle Gain,Intermediate
+198,Tariq,19,94.0,182.0,5,89.0,Fat Loss,Advanced
+199,Rana,23,53.0,179.0,1,,Fitness,Intermediate
+200,Khalid,25,73.0,151.0,4,23.0,Fitness,Beginner
+201,Amal,32,98.0,187.0,3,85.0,Muscle Gain,Intermediate
+202,Zaid,32,75.0,154.0,6,87.0,Muscle Gain,Advanced
+203,Noura,18,61.0,175.0,6,56.0,Fitness,Beginner
+204,Reem,28,62.0,182.0,6,29.0,Fat Loss,Advanced
+205,Salem,22,,162.0,2,,Muscle Gain,Beginner
+206,Amal,22,,164.0,6,68.0,Muscle Gain,Intermediate
+207,Salem,22,93.0,160.0,1,54.0,Fitness,Advanced
+208,Reem,18,71.0,,5,33.0,Fitness,Intermediate
+209,Maha,20,54.0,163.0,2,61.0,Fat Loss,Beginner
+210,Huda,25,89.0,187.0,1,34.0,Fitness,Intermediate
+211,Rana,18,82.0,151.0,6,,Muscle Gain,Advanced
+212,Khalid,25,55.0,156.0,3,83.0,Muscle Gain,Advanced
+213,Yousef,32,82.0,188.0,3,57.0,Muscle Gain,Intermediate
+214,Noura,18,76.0,153.0,6,24.0,Fitness,Beginner
+215,Rana,27,87.0,185.0,5,75.0,Fitness,Intermediate
+216,Noura,32,54.0,153.0,4,46.0,Muscle Gain,Beginner
+217,Aya,21,92.0,169.0,3,57.0,Fitness,Intermediate
+218,Tariq,23,96.0,161.0,2,81.0,Fitness,Intermediate
+219,Sara,18,,161.0,4,87.0,Muscle Gain,Advanced
+220,Sara,22,57.0,177.0,2,,Muscle Gain,Intermediate
+221,Sara,31,71.0,150.0,6,55.0,Muscle Gain,Beginner
+222,Tariq,18,89.0,158.0,5,71.0,Muscle Gain,Beginner
+223,Khalid,26,74.0,187.0,2,53.0,Muscle Gain,Advanced
+224,Noura,34,93.0,173.0,1,89.0,Fitness,Intermediate
+225,Noura,18,92.0,177.0,2,90.0,Fitness,Beginner
+226,Faisal,34,98.0,171.0,4,68.0,Fat Loss,Advanced
+227,Omar,24,62.0,168.0,6,48.0,Fitness,Beginner
+228,Salem,34,,189.0,3,,Muscle Gain,Intermediate
+229,Omar,31,99.0,177.0,1,57.0,Fat Loss,Beginner
+230,Hassan,21,78.0,,3,93.0,Fitness,Intermediate
+231,Omar,31,82.0,,4,26.0,Fitness,Beginner
+232,Aya,25,,173.0,3,91.0,Fitness,Advanced
+233,Hassan,32,82.0,157.0,2,97.0,Muscle Gain,Intermediate
+234,Tariq,31,53.0,170.0,6,67.0,Muscle Gain,Beginner
+235,Khalid,24,82.0,168.0,5,48.0,Fat Loss,Advanced
+236,Salem,19,54.0,151.0,3,31.0,Muscle Gain,Intermediate
+237,Yousef,22,79.0,184.0,4,43.0,Fitness,Beginner
+238,Lina,34,95.0,181.0,1,33.0,Muscle Gain,Beginner
+239,Saad,26,94.0,158.0,6,23.0,Fat Loss,Advanced
+240,Lina,30,86.0,,2,61.0,Fitness,Advanced
+241,Salem,21,83.0,174.0,6,46.0,Fitness,Beginner
+242,Omar,23,83.0,156.0,2,45.0,Fat Loss,Intermediate
+243,Reem,31,,150.0,3,,Fitness,Beginner
+244,Salem,28,85.0,188.0,3,74.0,Fitness,Beginner
+245,Aya,32,71.0,182.0,2,,Fitness,Beginner
+246,Rana,20,66.0,183.0,1,92.0,Muscle Gain,Beginner
+247,Faisal,26,50.0,189.0,2,54.0,Fitness,Intermediate
+248,Hassan,20,,,3,31.0,Fat Loss,Beginner
+249,Salem,22,,166.0,2,66.0,Muscle Gain,Advanced
